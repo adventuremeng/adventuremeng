@@ -1,7 +1,7 @@
 baseURL = "http://www.example.com/"
-title = "Minimo"
+title = "Adventure Meng"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
+copyright = "Hugo Theme Copyright: MunifTanjim/minimo"
 
 theme = "minimo"
 
@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Testing Changes"
+description = "Meng Gao's Personal Website"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -31,11 +31,7 @@ customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
-[params.copyright]
-prefix = ""
-holder = "MunifTanjim"
-startYear = "2017"
-suffix = ""
+
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -47,7 +43,7 @@ hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
-accentColor = "#ffcd00"
+accentColor = "#00ccff"  #0, 204, 255 color RGB
 hideMainMenu = false
 rtl = false
 
@@ -57,7 +53,7 @@ enable = true
 [params.widgets]
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about","search","taxonomy_cloud"] #"sidebar_menu"  That I take out
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -73,17 +69,9 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
-email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
-youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+
+email = "menggao114@gmail.com"
+instagram = "meng_gao233"
 
 [params.comments]
 enable = false
@@ -98,8 +86,8 @@ dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author=
 enable = true
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
-username = "MunifTanjim"
-repository = "minimo"
+username = "adventuremeng"
+repository = "adventuremeng"
 
 # Utterances: https://utteranc.es
 [params.comments.utterances]
@@ -127,11 +115,7 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+
 
 [blackfriday]
 hrefTargetBlank = true
