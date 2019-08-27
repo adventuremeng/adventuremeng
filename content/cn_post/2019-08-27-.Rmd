@@ -1,0 +1,13 @@
+---
+title: 再次测试一下
+author: ''
+date: '2019-08-27'
+slug: test_again
+categories: []
+tags:
+  - 测试
+authors: []
+---
+这里再double check一下上文说的方法有没有用呢。
+
+好的有用！以后我这个中文post界面就不定时更新啦！

@@ -39,6 +39,21 @@ weight = -10
 identifier = "bilibili"
 url = "https://space.bilibili.com/12234819"
 
+
+
+#####Try adding another link on Aug 27:
+[[menu.main]]
+name = "POSTS"
+weight = -210
+identifier = "post"
+url = "/post"
+
+[[menu.main]]
+name = "中文"
+weight = -210
+identifier = "cn_post"
+url = "/cn_post"
+#####
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "2006, Jan 02"
