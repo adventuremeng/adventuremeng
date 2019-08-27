@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Meng Gao's Personal Website"
+description = "Urban Planning, GIS, R"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -32,6 +32,12 @@ customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 
+######Try adding a link on Aug 26:
+[[menu.main]]
+name = "哔哩哔哩"
+weight = -10
+identifier = "bilibili"
+url = "https://space.bilibili.com/12234819"
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
