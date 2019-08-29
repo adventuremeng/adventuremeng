@@ -4,8 +4,9 @@ menu: main
 title: Resume
 weight: -210
 ---
-This is Meng Gao's professional resume. Please go to [Work Samples Tab](/work-samples/) for list of skills and examples.
+This is Meng Gao's professional resume. Please go to [Work Samples Tab](/work-samples/) for list of skills and examples. My email is:  menggao114@gmail.com
 
+#### Meng Gao
 ## Education
 
 

@@ -1,0 +1,115 @@
+---
+title: Malawi Land Use Change Detection Using Remote Sensing Methods
+author: ''
+date: '2019-08-28'
+slug: malawi-land-use-change-detection-using-remote-sensing-methods
+categories: []
+tags:
+  - Remote_Sensing
+  - GIS
+  - Raster
+authors: []
+---
+
+
+
+<p>Environmental degradation is a serious issue in Malawi. Productivity of major crops is significantly below potential yields due in part to Reduced soil fertility caused by unsustainable land use practices are hurting productivity of crops. Environmental data in Malawi have problems of data quality and completeness. Therefore, using satellite images will be a good solution to this. This study aims to identify and quantify the land cover changes in North Malawi from 1994 to 2014 using satellite images and remote sensing techniques.</p>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/malawi_site.png" width="900" />
+
+</div>
+<div id="background" class="section level3">
+<h3>Background</h3>
+<p><strong>Data source:</strong> Two Landsat 8, 30m-resolution images taken on October 1994 and October 2014.</p>
+<p><strong>Software: </strong>Erdas Imagine and ArcGIS.</p>
+<p><strong>Introduction of the Site</strong></p>
+<p>Malawi, a landlocked country in southeastern Africa, is defined by its topography of highlands split by the Great Rift Valley and enormous Lake Malawi.</p>
+<p><strong>Population:</strong> 18.62 million (2017)</p>
+<p>The study area in Malawi, which includes parts of 3 districts in Northern Malawi (Mzimba, Nkhata Bay, Rumphi).</p>
+<p><br/><br/></p>
+</div>
+<div id="operational-steps" class="section level3">
+<h3>Operational Steps</h3>
+<p>The first step was to geo-reference the images using GCP points (10 GCP points for each image with all of the errors &lt;=0.1). Then, images were cropped to the study boundary. Thirdly, I changed band combination to enhance the images.</p>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/clip.png" width="900" />
+
+</div>
+<p>Next, I decided on these six categories as the most common features in the study area:</p>
+<p><em>1: Forest;</em> <em>2: Shrub;</em> <em>3: Grass;</em> <em>4: Crop;</em> <em>5: Water;</em> <em>6: Settlement.</em></p>
+<p>Using these categories, I first performed unsupervised classification. I used 36 initial categories and then manually put them into my 6 categories.</p>
+<p><strong>Result: Unsupervised Classification: 1994 to 2014. </strong></p>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/unsup.png" width="900" />
+
+</div>
+<p>Unsupervised classification of 2014 didn’t identify some settlements in Rumphi Area.</p>
+<p>After that, supervised classification was performed using Maximum Likelihood Algorithm. I created a signature file for each image, drew polygons in the image to link to the signature. For each image, I created about 60 signatures. For each categories I created about 10 signatures. Meanwhile, I supervised the distribution of the pixels on the feature space mask, to interactively classify all the signatures. I also made the signatures evenly distribute in the study area.</p>
+<p><strong>Result: Supervised Classification: 1994 to 2014. </strong></p>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/sup.png" width="900" />
+
+</div>
+<p>Supervised classification of 2014 also classified more settlements than reality in the south of Mzimba Area.</p>
+<p>Then, I decided on the categories of changes. I put all the changes into 7 classes:</p>
+<p>I use these 7 classes because I am interested in the changes in vegetation, changes in water, and changes in human settlements.</p>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/Screen%20Shot%202019-08-28%20at%209.55.14%20PM.png" width="800" />
+
+</div>
+<p>The last step was calculating the number of pixels of those seven changed classes.</p>
+<p><strong>Result of change detection using unsupervised classification of 1994 to 2014. </strong></p>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/change_un.png" width="900" />
+
+</div>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/Screen%20Shot%202019-08-28%20at%209.24.11%20PM.png" width="500" />
+
+</div>
+<p>As we can see from the map and the table, most area of lands didn’t change from 1994 to 2014. The most significant change is vegetation growth. Water loss is also very noticeable.</p>
+<p><strong>Result of change detection using supervised classification of 1994 to 2014. </strong></p>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/change_sup.png" width="900" />
+
+</div>
+<div class="figure">
+<img src="/doc/2019-08-28-malawi-land-use-change-detection-using-remote-sensing-methods_files/Screen%20Shot%202019-08-28%20at%209.24.20%20PM.png" width="500" />
+
+</div>
+<p>As we can see from the map and the tables, most area of lands didn’t change from 1994 to 2014. Vegetation growth, settlement loss, and deforestation are the three most significant changes.</p>
+<p><br/><br/></p>
+</div>
+<div id="discussion" class="section level3">
+<h3>Discussion</h3>
+<p><strong>Overall Findings:</strong></p>
+<p>• The forest area of the east (Nkhata Bay) didn’t experience obvious change in addition to vegetation growth.</p>
+<p>• More crop lands and settlements appeared in the valley area (Mzimba).</p>
+<p>• More settlements appeared in the southwest (Mzimba).</p>
+<p>• More crop became settlements in the northwest (Rumphi).</p>
+<p>• The change detection technique of this area will help crop monitoring, land-use and land-cover (LULC) change monitoring, foreset and urban change monitoring.</p>
+<p><strong>Source of Errors:</strong></p>
+<p>• Data sources:</p>
+<ol style="list-style-type: lower-alpha">
+<li><p>Low resolution of Landsat images. (Only 30 meters.)</p></li>
+<li><p>The roads of the area are not paved. Software tends to classify them into crop/grass.</p></li>
+</ol>
+<p>• Operation:</p>
+<ol style="list-style-type: lower-alpha">
+<li><p>I am not very familiar with the study area.</p></li>
+<li><p>Image enhancement can lead to misinterpretation and errors.</p></li>
+<li><p>Vague information from external reference image, for example: Google Earth.</p></li>
+<li><p>GCP Selection: errors in photo rectification are not small enough.</p></li>
+<li><p>Algorithm performance.</p></li>
+</ol>
+<p>• During classification:</p>
+<ol style="list-style-type: lower-alpha">
+<li><p>Misinterpretation of features.</p></li>
+<li><p>Errors from the interactive process of selecting signature and masking to feature space. (For supervised classification.)</p></li>
+</ol>
+<p>• During change detection:</p>
+<ol style="list-style-type: lower-alpha">
+<li><p>Misclassification of zero values and features without signatures.</p></li>
+<li><p>Algorithm performance.</p></li>
+</ol>
+</div>
