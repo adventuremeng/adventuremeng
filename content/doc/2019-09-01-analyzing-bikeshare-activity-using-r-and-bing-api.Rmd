@@ -1,0 +1,57 @@
+---
+title: NPC19 Poster-Analyzing Bikeshare Activity Using R and Bing API
+author: ''
+date: '2019-09-01'
+slug: analyzing-bikeshare-activity-using-r-and-bing-api
+categories: []
+tags:
+  - GIS
+  - R
+  - Space_Syntax
+authors: []
+---
+This poster was exhibited at [APA NPC19](https://www.planning.org/conference/npc19/) as a student poster.
+This is a group work by [Chris Chang](https://chrisc20042001.wixsite.com/mysite) and Meng Gao.
+
+![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/chris_meng.jpg){ height=800px}
+View large image: [click here.](https://github.com/adventuremeng/adventuremeng/blob/master/static/images/Chris_Meng_NPC19.pdf)
+
+Read the study:
+
+## Bike Share hot spots and route visualization for Atlanta, Portland, Los Angeles, Philadelphia - With BingMAP API in RStudio
+
+
+ This project utilizes the monthly Bikeshare trip data provided by operator in Atlanta, Portland, Los Angeles and Philadelphia and visualizes bike share activity using BingMAP API via a specifically developed R script.
+
+This project aims to find out:
+     
+   a. Which routes do bikers most likely take? Which ones are the more popular routes?
+        
+   b. Which intersections do bikers stop and make turns?
+
+Data from all four cities include the start and end longitude and latitude of every trip. Using that as the input, a R script is developed to prepossess and filter out invalid data. Trips with the same OD (origin&destination) are classified as a unique trip and are given an ID. The script then uses the Bing API to request the optimal routes for every one of those OD pairs. Data from the Bing server returns the locations of the intersections when change of direction occurs. From that Hot Spot maps for bike turning movement for all four cities are generated. These intersections are then connected to form a collective route map for all the bike trips. Line width are weight by the number of trips that occur on that specific route. A simple flowchart of the script is shown below.
+
+
+![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/flowchart_JPG.jpg){width=800px}
+
+
+This project uses Jan ~ June 2018 data from Relay (Atlanta), Biketown (Portland), Metro Bike Share (Los Angeles) and Indego (Philadelphia). All four data sets have over 30,000 data entries.
+
+
+<center> **Bike Turning Activity Hot Spots** </center>
+![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/turn1.png){width=900px}
+
+![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/turn2.png){width=900px}
+
+
+<center> **Bike Route Maps** </center>
+
+![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/route1.png)
+
+![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/route2.png){width=900px}
+
+<center> **Bike Activity Heat Maps** </center>
+
+![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/hotspot1.png){width=900px}
+
+![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/hotspot2.png){width=900px}
