@@ -44,8 +44,8 @@ Developed several site plans for community improvement at various sites in the C
 
 *May 2018- May 2019*&nbsp;&nbsp;&nbsp; Urban Planning/GIS Intern
 
-Worked full time from May to August, part time during school. Worked with Florence, SC Neighborhood Revitilization project teams on site planning, strategic planning, GIS maps, GIS analysis, marketing packages, GIS server maintenance.
-Worked with Houston, TX Northern Third Ward project on pro forma, GIS modeling, architectural rendering.
+Worked on site planning, strategic planning, GIS maps, GIS analysis, marketing packages, GIS server maintenance.
+
 
 **Center for the Green Building and Sponge City of Gatech Shenzhen Campus, Atlanta**
 

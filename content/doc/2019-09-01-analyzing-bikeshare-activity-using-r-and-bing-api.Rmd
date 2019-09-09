@@ -14,7 +14,7 @@ This poster was exhibited at [APA NPC19](https://www.planning.org/conference/npc
 This is a group work by [Chris Chang](https://chrisc20042001.wixsite.com/mysite) and Meng Gao.
 
 ![](/doc/2019-09-01-analyzing-bikeshare-activity-using-r-and-bing-api_files/chris_meng.jpg){ height=800px}
-View large image: [click here.](https://github.com/adventuremeng/adventuremeng/blob/master/static/images/Chris_Meng_NPC19.pdf)
+View large image: [click here.](/images/Chris_Meng_NPC19.pdf)
 
 Read the study:
 
