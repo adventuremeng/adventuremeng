@@ -8,9 +8,9 @@ tags: []
 authors: []
 ---
 
-B站的视频点击分享之后，有个内嵌的url，于是我把它复制粘贴之后到这里，测试一下发现视频框比较小，只占到屏幕（电脑屏幕）的四分之一。后来调整了一下尺寸，在iframe里面加入 width="750px" height="500px" 就变成了这个页面的效果。
+B站的视频点击分享之后，有个内嵌的url，于是我把它复制粘贴之后到这里，测试一下发现视频框比较小，只占到屏幕（电脑屏幕）的四分之一。后来调整了一下尺寸，在css设定里加了宽度为100% 高度为500px 就变成了这个页面的效果。
 
-<iframe src="//player.bilibili.com/player.html?aid=67114604&cid=116370654&page=1" width="750px" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=67114604&cid=116370654&page=1" scrolling="no" class="myvideo" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 **创作后记：**
