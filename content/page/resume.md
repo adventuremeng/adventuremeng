@@ -4,9 +4,11 @@ menu: main
 title: Resume
 weight: -210
 ---
-This is Meng Gao's professional resume. Please go to [Work Samples Tab](/work-samples/) for list of skills and examples. My email is:  menggao114@gmail.com
+Please go to [Work Samples Tab](/work-samples/) for list of skills and examples. 
 
-#### Meng Gao
+Email:  menggao114@gmail.com
+
+#### *Meng Gao*
 ## Education
 
 
@@ -16,7 +18,7 @@ This is Meng Gao's professional resume. Please go to [Work Samples Tab](/work-sa
 Master of City and Regional Planning, Concentrating in Urban Design and GIS.
 
 GPA: 3.92. 
-Earned the Certificate in Geographic Information Systems.
+Earned the [Certificate in Geographic Information Systems.](https://planning.gatech.edu/graduate-certificates)
 
 
 
@@ -83,7 +85,7 @@ Assisted with the masterplan and construction drawings of the management buildin
 
 **American Planning Association** 
 
-Enrolled in AICP Pilot Program.
+Enrolled in [AICP Pilot Program.](https://www.planning.org/aicp/candidate/)
 
 **Student Planning Association of Georgia Tech** 
 

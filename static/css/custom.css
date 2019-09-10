@@ -7,3 +7,12 @@
     float:left;
 }
 
+.myvideo2 {
+  width:100%;
+
+  display:block;
+  float:left;
+  position: relative;
+  
+  
+}
