@@ -4,7 +4,7 @@ menu: main
 title: Resume
 weight: -210
 ---
-Please go to [Work Samples Tab](/work-samples/) for list of skills and examples. 
+Please go to [Work Samples Tab](/work-samples/) for list of skills and examples.  [<span style="color:blue">Download PDF Resume here.</span>](/images/Meng_Gao_ResumeSep2019_web.pdf)
 
 Email:  menggao114@gmail.com
 
@@ -42,7 +42,7 @@ Exchange student of Art, Design and Architecture.
 
 *July 2019 – Present*&nbsp;&nbsp;&nbsp; [GIS Planner](https://apdurban.com/about/people/meng-gao/) 
 
-Developed several site plans for community improvement at various sites in the City of Florence and the City of Houston. Manages the GIS database and server at APD-U and has created online maps utilized for neighborhood retention and revitalization. Sought to automate APD-U’s analysis work using various tools and coding scripts.
+Developed several site plans for community improvement at various sites in the City of Florence and the City of Houston. Manages the GIS database and server. Sought to automate APD-U’s analysis work using various tools and coding scripts.
 
 *May 2018- May 2019*&nbsp;&nbsp;&nbsp; Urban Planning/GIS Intern
 
@@ -81,7 +81,7 @@ Assisted with the masterplan and construction drawings of the management buildin
 **Data Processing** Tableau, SPSS, RStudio
 
 
-## Professional Affliations and Conference Presentations
+## Professional Development
 
 **American Planning Association** 
 
@@ -89,9 +89,9 @@ Enrolled in [AICP Pilot Program.](https://www.planning.org/aicp/candidate/)
 
 **Student Planning Association of Georgia Tech** 
 
-*May 2018 to May 2019*&nbsp;&nbsp;&nbsp; Board Member: Webmaster 
+*May 2018 to April 2019*&nbsp;&nbsp;&nbsp; Board Member: Webmaster 
 
-Managed the SPA website, created multi-media marketing materials, organized poster trainings.
+Managed the [SPA website](www.georgiatechspa.com), created multi-media marketing materials, organized poster trainings.
 
 **Georgia Planning Association Spring Conference 2019** 
 
@@ -100,8 +100,7 @@ Session Presenter: [Emerging Voices: Analyzing and Visualizing Transportation Is
 **APA National Planning Conference 2019**
 
 
-
-Poster Presentation: [Analyzing Bikeshare Activity Using Bing Map API]
+Poster Presentation: [Analyzing Bikeshare Activity Using Bing Map API](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
 
 
 **Midtown Alliance Annual Meeting 2018**

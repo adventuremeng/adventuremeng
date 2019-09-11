@@ -116,8 +116,8 @@ enable = false
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
-username = "MunifTanjim"
-repository = "minimo"
+username = "adventuremeng"
+repository = "adventuremeng"
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
