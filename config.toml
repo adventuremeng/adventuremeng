@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com/"
+baseURL = "https://www.example.com/"
 title = "Adventure Meng"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = "Hugo Theme Copyright: MunifTanjim/minimo"
