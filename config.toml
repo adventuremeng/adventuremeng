@@ -95,7 +95,7 @@ email = "menggao114@gmail.com"
 instagram = "meng_gao233"
 
 [params.comments]
-enable = false
+enable = true
 
 # Isso: https://posativ.org/isso/
 [params.comments.isso]

@@ -10,11 +10,11 @@ comments:
       options:
         format: 'timestamp'
   moderation: false
-  name: 'Minimo'
+  name: 'adventuremeng'
   path: 'data/comments/{options.postId}'
   requiredFields: ['author', 'content', 'email', 'permalink']
   reCaptcha:
-    enabled: false
+    enabled: true
     # siteKey: ''
     # secret: ''
   transforms:
