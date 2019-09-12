@@ -105,7 +105,7 @@ dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author=
 
 [params.comments.staticman]
 enable = true
-apiEndpoint = "https://api.staticman.net/v2/entry"
+apiEndpoint = "https://dev.staticman.net/v3/entry/github/adventuremeng/adventuremeng/master"
 maxDepth = 2
 username = "adventuremeng"
 repository = "adventuremeng"
