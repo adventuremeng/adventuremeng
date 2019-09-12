@@ -95,7 +95,7 @@ email = "menggao114@gmail.com"
 instagram = "meng_gao233"
 
 [params.comments]
-enable = true
+enable = false
 
 # Isso: https://posativ.org/isso/
 [params.comments.isso]
@@ -104,7 +104,7 @@ scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
 dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [params.comments.staticman]
-enable = true
+enable = false
 apiEndpoint = "https://dev.staticman.net/v3/entry/github/adventuremeng/adventuremeng/master"
 maxDepth = 2
 username = "adventuremeng"
