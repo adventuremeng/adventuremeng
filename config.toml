@@ -95,7 +95,7 @@ email = "menggao114@gmail.com"
 instagram = "meng_gao233"
 
 [params.comments]
-enable = false
+enable = true
 
 # Isso: https://posativ.org/isso/
 [params.comments.isso]
@@ -112,7 +112,7 @@ repository = "adventuremeng"
 
 # Utterances: https://utteranc.es
 [params.comments.utterances]
-enable = false
+enable = true
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
