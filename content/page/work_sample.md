@@ -18,10 +18,9 @@ comments: false
 
 ### Architectural Portfolio from 2013 to 2018:
 
-[<img src="/page/work_sample_files/MG_Portfolio.png" alt="" width="800px"/>](/images/Portfolio_MengGao.pdf)
+<img src="/page/work_sample_files/MG_Portfolio.png" alt="" width="800px"/>
 
-[*Click on the image to view the portfolio.*](/images/Portfolio_MengGao.pdf)
-
+<a href="/images/Portfolio_MengGao.pdf" target="_blank">Click here view the portfolio.</a>
 ### Site Planning 
 
 Creating site plans for neighborhood development from the level of street block to neighborhood.
