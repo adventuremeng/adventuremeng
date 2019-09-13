@@ -29,26 +29,26 @@ You will need to register an account to download data. This is how I downloaded 
 
 These file names mean: Landsat 8, Precision Terrain, Path047, Row027, Acquired on August 12, 2019, Processed on August 20, 2019, Collection 1, Tier 1. You can refer to this guide: <a href="https://landsat.usgs.gov/sites/default/files/documents/si_product_guide.pdf" target="_blank">LANDSAT SURFACE REFLECTANCE-DERIVED SPECTRAL INDICES</a>.
 
-![](/./2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image9.png){width=800px}
+![](/post/2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image9.png){width=800px}
 
 **Step 2: Create a mosaic dataset.**
 
 There are two ways of creating mosaic dataset using either ArcGIS Pro or ArcCatalog.
 In ArcCatalog, navigate to the working file geodatabase, right click on the database name in the Catalog Tree, and click “New”- “Mosaic Dataset…”.  In ArcGIS Pro, run the “Create Mosaic Dataset” tool. Then, configure the name and the coordinate system of the mosaic dataset. In this case, I used NAD 1983 State Plane Washington North FIPS 4601 (US Feet).
 
-![](/./2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image7.png){width=80%}
+![](/post/2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image7.png){width=80%}
 
 **Step 3: Copy Raster to ESRI grid format.**
 
 This step is optional. Don’t need to do this step if the original raster layer only has 1 band. This is an ESRI bug that if we add satellite images (more than one band) directly into the mosaic dataset, ArcGIS will merge the bands and we will lose band information. As a work around, in this case study, I performed Copy Raster to one of the images. Remember to click “Colormap to RGB” when exporting.
 
-![](/./2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image5.png){width=350px}
+![](/post/2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image5.png){width=350px}
 
 **Step 4: Add raster layers to the mosaic dataset.**
 
 In ArcCatalog or the Catalog Pane in ArcGIS Pro, right click on the created mosaic dataset, and click “Add Rasters…”. If we want to add a raster layer that’s already in a file geodatabase, we can change the Input Data type from “Workspace” to “Dataset” from the drop-down menu. Then, we can navigate to the proper file geodatabase or folders and add multiple raster datasets.
 
-![](/./2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image3.png){width=450px}
+![](/post/2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image3.png){width=450px}
 
 Fun fact: In the previous step, I only performed copy raster on one layer. By adding this layer to the mosaic dataset, all layers in this mosaic dataset will not lose bands.
 
@@ -59,16 +59,16 @@ Fun fact: In the previous step, I only performed copy raster on one layer. By ad
 In ArcGIS Pro or ArcMap, click on “Add Data”, and add the whole mosaic dataset to the map.
 When first added, the mosaic layer will appear as a group of three layers “Boundary”, “Footprint”, “Image”.
 
-![](/./2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image1.png){width=700px}
+![](/post/2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image1.png){width=700px}
 
 Please note that now, the map is displaying all the layers without image value configuration.
 Right click on the Footprint, and open attribute table. Now, each raster dataset is displayed as one row of the attribute table. Click on the row of raster dataset that you want to display.
 
-![](/./2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image2.png){width=600px}
+![](/post/2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image2.png){width=600px}
 
 Now, right click on the “Image” layer, and under “Selection”, click “Add To Map”.  In the popped out “Add selected rasters to map” window, name the new group layer name and hit OK.
 I displayed the RGB data as real color. You can also change band combination by configure in the symbology tab. Here, ESRI will ask you to calculate statistics. Hit yes.
 
-![](/./2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image8.png){width=700px}
+![](/post/2019-09-12-working-with-arcgis-mosaic-datasets-add-extract-and-management_files/image8.png){width=700px}
 
 You can also change symbology type to Stretch for satellite images after the statistics and histograms are calculated. Then, I changed the stretch color scheme and intervals. This gives us an opportunity to play around with the cell values.
