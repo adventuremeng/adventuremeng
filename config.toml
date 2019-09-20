@@ -34,10 +34,11 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 ######Try adding a link on Aug 26:
 [[menu.main]]
-name = "哔哩哔哩"
-weight = -10
-identifier = "bilibili"
-url = "https://space.bilibili.com/12234819"
+#Delete bilibili button on Sep 20 2019:
+#name = "哔哩哔哩"
+#weight = -10
+#identifier = "bilibili"
+#url = "https://space.bilibili.com/12234819"
 
 
 
@@ -59,13 +60,13 @@ url = "/cn_post"
 dateFormat = "2006, Jan 02"
 listDateFormat = "2006, Jan 02"
 archiveDateFormat = "Jan 02"
-hideEntryNavigation = ["page"] # boolean / array of sections
-hideEntryMeta = ["page"] # boolean / array of sections
+#hideEntryNavigation = ["page"] # boolean / array of sections
+#hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
 accentColor = "#00ccff"  #0, 204, 255 color RGB
-hideMainMenu = false
+hideMainMenu = true
 rtl = false
 
 [params.sidebar]
