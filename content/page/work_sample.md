@@ -9,16 +9,14 @@ comments: false
 
 ### Project Highlights 
 
-[<img src="/page/work_sample_files/Screen Shot 2019-08-28 at 10.06.03 PM.png" alt="" width="200px"/>](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
-[**Remote sensing: Land Use Change Detection in Malawi**](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
+[<img src="/page/work_sample_files/Screen Shot 2019-08-28 at 10.06.03 PM.png" alt="" width=30% title="Remote sensing: Land Use Change Detection in Malawi" style="border: 1px solid black"/>](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
+[<img src="/page/work_sample_files/Screen Shot 2019-09-01 at 3.49.17 PM.png" alt="" width=30% title="BingAPI and R: Bikeshare Analysis" "/ style="border: 1px solid black">](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
 
-[<img src="/page/work_sample_files/Screen Shot 2019-09-01 at 3.49.17 PM.png" alt="" width="200px" height="200px"/>](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
-[**BingAPI and R: Bikeshare Analysis**](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
-
+**For a list of projects, [click here.](/doc)**
 
 ### Architectural Portfolio from 2013 to 2018:
 
-<img src="/page/work_sample_files/MG_Portfolio.png" alt="" width="800px"/>
+<img src="/page/work_sample_files/MG_Portfolio.png" alt="" width="800px" style="border: 1px solid black" / >
 
 <a href="/images/Portfolio_MengGao.pdf" target="_blank">Click here view the portfolio.</a>
 ### Site Planning 
@@ -35,9 +33,9 @@ Rendering CAD and GIS drawings for site plan, building plan,  elevation, and sec
 
 Generating perspective renderings of buildings and neighborhoods.
 
-<img src="/page/work_sample_files/Charles_Street.png" alt="" width="700px"/>
+Example: [click here.](https://apdurban.com/projects/historic-third-ward-real-estate-advisory-services/)
 
-*Source: APD Urban: HISTORIC THIRD WARD REAL ESTATE ADVISORY SERVICES*
+
 
 ### GIS and Mapping
 
