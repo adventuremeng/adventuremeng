@@ -1,7 +1,7 @@
 baseURL = "https://www.adventuremeng.com/"
 title = "Adventure Meng"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = "© Meng Gao, 2019 · Made with blogdown and the Minimo theme for Hugo."
+copyright = "© Meng Gao, 2019 · Made with the Minimo theme for Hugo · [RSS](https://www.adventuremeng.com/index.xml)"
 
 theme = "minimo"
 
