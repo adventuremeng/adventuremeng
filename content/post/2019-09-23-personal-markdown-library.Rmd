@@ -1,0 +1,64 @@
+---
+title: Personal Markdown Library
+author: ''
+date: '2019-09-23'
+slug: personal-markdown-library
+categories: []
+tags:
+  - book
+authors: []
+---
+I was new to Markdown/CSS/html when I started putting together my website. Therefore, I decided to write this post about markdown cheetsheets for my personal use so that I don't need to open previous md files or Google the same questions again.
+
+```
+Headers:
+# H1
+## H2
+### H3
+
+Italics, with *asterisks* 
+Bold, with **asterisks**
+
+  ```
+  Code Block Content
+  ```
+
+Link to a PDF while change the text color:
+[<span style="color:blue">Download PDF here.</span>](url to the PDF)
+
+Add some space: &nbsp;&nbsp;&nbsp
+
+Add an empty line: <br/><br/>
+
+List: 
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list.
+
+Bullet Point:
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
+Add Bilibili video:
+<iframe src="url created by Bilibili" scrolling="no" class="myvideo" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+(Note here: the "myvideo" class is defined in static/css/custom.css)
+
+Add image while defining width/border/title:
+<img src="url" alt="" width=30% title="Image Title" style="border: 1px solid black"/>
+
+Open link in new window while working with RMD-format file:
+<a href="url" target="_blank">Link Text</a>
+```
+
+What's more, I defined on **my local computer** these keyboard short cuts:
+
+cmd + N: New Post.
+
+cmd + E: Quote poem.
+
+cmd + I: Add image.
+
+I referenced a lot of information [here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Oh, I'll keep updating this post if I find new stuff.
