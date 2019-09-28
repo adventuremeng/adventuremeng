@@ -59,6 +59,11 @@ cmd + E: Quote poem.
 
 cmd + I: Add image.
 
+
+Accent blue color: "#00ccff"  #0, 204, 255 color RGB
+
+Font: Helvetica Neue
+
 I referenced a lot of information [here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Oh, I'll keep updating this post if I find new stuff.

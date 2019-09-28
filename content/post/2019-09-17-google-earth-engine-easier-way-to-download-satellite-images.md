@@ -66,7 +66,7 @@ The export took about 2 minutes for this task. After 2 minutes, the image appear
 
 <img src="/post/2019-09-17-google-earth-engine-easier-way-to-download-satellite-images_files/image5.png" alt="" width="50%"/>
 
-**Step 5: ** Use the image. The exported image’s format is geo-referrenced TIFF. By downloading the image and loading it into GIS software, I can see the raster image showing up in Florida. From here, I can use this image as basemap, raster analysis element, etc. Image below shows the downloaded TIFF added to ArcGIS.
+**Step 5:** Use the image. The exported image’s format is geo-referrenced TIFF. By downloading the image and loading it into GIS software, I can see the raster image showing up in Florida. From here, I can use this image as basemap, raster analysis element, etc. Image below shows the downloaded TIFF added to ArcGIS.
 
 <img src="/post/2019-09-17-google-earth-engine-easier-way-to-download-satellite-images_files/image4.png" alt="" width="80%"/>
 
