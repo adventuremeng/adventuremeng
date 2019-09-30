@@ -9,7 +9,7 @@ Hello! My name is Meng Gao. I am a city planner working in the U.S. I graduated 
 
 In my spare time, I like salsa dancing, playing the flute, going to the gym, and posting videos (in Chinese) on [Bilibili](https://space.bilibili.com/12234819) weekly. 
 
-If you want to subscribe to my posts, please use the [**RSS**](https://www.adventuremeng.com/index.xml) link. The content of all pages is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[**RSS.**](https://www.adventuremeng.com/index.xml)  &nbsp;&nbsp;&nbsp; [**License.**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![meng](/images/meng.jpg)
 

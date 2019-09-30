@@ -26,7 +26,7 @@ Bold, with **asterisks**
 Link to a PDF while change the text color:
 [<span style="color:blue">Download PDF here.</span>](url to the PDF)
 
-Add some space: &nbsp;&nbsp;&nbsp
+Add some space: &nbsp;&nbsp;&nbsp;
 
 Add an empty line: <br/><br/>
 
