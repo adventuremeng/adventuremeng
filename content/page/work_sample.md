@@ -11,6 +11,7 @@ comments: false
 
 [<img src="/page/work_sample_files/Screen Shot 2019-08-28 at 10.06.03 PM.png" alt="" width=30% title="Remote sensing: Land Use Change Detection in Malawi" style="border: 1px solid black"/>](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
 [<img src="/page/work_sample_files/Screen Shot 2019-09-01 at 3.49.17 PM.png" alt="" width=30% title="BingAPI and R: Bikeshare Analysis" "/ style="border: 1px solid black">](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
+[<img src="https://user-images.githubusercontent.com/53570321/66352895-b969d900-e92e-11e9-9930-1029c030a974.png" alt="" width=30% title="Atlanta Office Market Analysis 2017" "/ style="border: 1px solid black">](/images/atl_office_analysis_mg.pdf)
 
 **For a list of projects, [click here.](/doc)**
 
@@ -24,7 +25,7 @@ comments: false
 Creating site plans for neighborhood development from the level of street block to neighborhood.
 Designing parking lots that accommodate maximum parking spaces; Designing landscape, and street section.
 
-[Example: APDU Historic THird Ward Project.](https://apdurban.com/projects/historic-third-ward-real-estate-advisory-services/)
+[Example: APDU Historic Third Ward Project.](https://apdurban.com/projects/historic-third-ward-real-estate-advisory-services/)
 (Responsibilities: Site plan and design for three pilot projects and financing, cost estimates, funding sources, and capacity building recommendations.)
 
 ### Architectural Design and Rendering 
