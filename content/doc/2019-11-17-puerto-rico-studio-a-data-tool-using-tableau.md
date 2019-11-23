@@ -15,7 +15,7 @@ From 2018 Fall to 2019 Spring, I participated in the graduate planning studio: [
 
 ### Illustration of the Tool
 
-<iframe src="https://player.vimeo.com/video/373533042" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/373533042" class="myvideo" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 **This study serves as an example for organizations with limited resources to create an affordable, interactive, and visually friendly data management tool with little GIS operations required. Using Tableau, one can create a pretty interactive map while easily managing the fields in Excel.**
