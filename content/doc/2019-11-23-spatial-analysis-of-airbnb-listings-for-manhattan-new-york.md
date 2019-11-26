@@ -29,9 +29,9 @@ It is observed from the map above that there are more private rooms in the north
 
 We conducted OLS regression analysis for price and room type. It is remarkable to observe that the prices of private and shared room are nearly the same which explains the lower accuracy of our regression as it is missing the primary factor of dependence- “location”. The highest prices were observed in a quarter mile buffer around Time Square Station and Union& 14th Station, indicating a co-relation between price and location.
 
-<img src="https://user-images.githubusercontent.com/53570321/69485672-c1afa200-0e10-11ea-9260-633beaea9552.png"" alt="" width=85% />
+<img src="https://user-images.githubusercontent.com/53570321/69660504-7d114a00-104e-11ea-9540-cba7607b33d9.jpg"" alt="" width=85% />
 
-The graph above summarized price by distance to each major transit stop. This gives us a clear idea that point of interest and public transit are important factors in the decision making process of the guests in booking a listing rather than room type. Another, important observation is that prices have not changed significantly over time in Manhattan over the five year period as it can be observed in the raster DEM layers shown below.
+The graph above summarized price by distance to each major transit stop. This gives us a clear idea that point of interest and public transit are important factors in the decision making process of the guests in booking a listing rather than room type. Another, important observation is that price heatmaps have not changed significantly over time in Manhattan over the five year period as it can be observed in the raster DEM layers shown below. It means that the most expensive areas in 2014 are remaining to be the most expensive areas in 2019.
 
 <img src="https://user-images.githubusercontent.com/53570321/69485676-c4aa9280-0e10-11ea-9fea-2695857cb95d.png"" alt="" width=100% />
 
