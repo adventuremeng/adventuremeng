@@ -1,13 +1,15 @@
 ---
-title: Tech Playground: Georgia Tech Shenzhen Campus Design
+title: 'Tech Playground: Georgia Tech Shenzhen Campus Design'
 author: ''
 date: '2019-12-11'
-slug: tech-playground-georgia-tech-shenzhen-campus-design
+slug: tech-playground-the-georgia-tech-shenzhen-campus-design
 categories: []
 tags:
   - Design
+  - GIS
 authors: []
 ---
+
 
 This urban design project was the product of a group project for Urban Ecological Design course. Group member: Meng Gao, Jonathan Sherman, Jian Pang, and Chris Chang.
 
