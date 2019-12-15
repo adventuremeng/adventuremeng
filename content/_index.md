@@ -8,7 +8,7 @@ weight: -270
 <img src="https://user-images.githubusercontent.com/53570321/70857492-5dd34300-1ebd-11ea-8c2e-64b877782bfa.png" alt="" width=100% />
 
 
-### [Projects](/doc)
+### Projects
 
 [<img src="https://user-images.githubusercontent.com/53570321/70857659-cb34a300-1ec0-11ea-942f-edeba7835679.png" alt="" width=228px title="Spatial Analysis of AirBnb Listings for Manhattan, New York" "/> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=228px title="BingAPI and R: Bikeshare Analysis" "/> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
@@ -31,7 +31,7 @@ In May 2019, I graduated from the Master of City and Regional Planning program a
 
 Recently, I am most interested in GIS, statistics, and R. My goal is to use data-driven information, geospatial relationships, and design aspects to understand and solve urban problems. I like to study about neighborhood gentrification, housing market dynamics, non-motorized transportation promotion, and environmental and social justice problems. 
 
-**You can find my previous studies [here](/doc). You can also find my skill sets [here](work-samples).**
+**You can find my previous studies [here](/doc). You can also find my skill sets [here](/about).**
 
 
 <a href="/images/Portfolio_MengGao.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/53570321/70857810-8827ff00-1ec3-11ea-9e6b-63d1858af656.png" alt="" width="100%" / ></a>

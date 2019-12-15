@@ -44,14 +44,20 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 #####Try adding another link on Aug 27:
 [[menu.main]]
-name = "POSTS"
+name = "POST"
 weight = -210
 identifier = "post"
 url = "/post"
 
 [[menu.main]]
-name = "中文"
+name = "PROJECT"
 weight = -210
+identifier = "doc"
+url = "/doc"
+
+[[menu.main]]
+name = "中文"
+weight = -110
 identifier = "cn_post"
 url = "/cn_post"
 #####

@@ -1,25 +1,36 @@
 ---
-description: Professional work samples.
+description: Software proficiency, professional skills, and professional development.
 menu: main
-title: Work Samples
-weight: -210
+title: About
+weight: -110
 comments: false
 ---
 
+## <span style="color:blue">Software</span>
 
-### Project Highlights 
+**Modelling and Visualization** Rhino, Grasshopper, Sketchup, AutoCAD, V-ray, 3dsMAX
 
-[<img src="/page/work_sample_files/Screen Shot 2019-08-28 at 10.06.03 PM.png" alt="" width=228px title="Remote sensing: Land Use Change Detection in Malawi" style="border: 1px solid black"/>](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
-[<img src="/page/work_sample_files/Screen Shot 2019-09-01 at 3.49.17 PM.png" alt="" width=228px title="BingAPI and R: Bikeshare Analysis" "/ style="border: 1px solid black">](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
-[<img src="https://user-images.githubusercontent.com/53570321/66352895-b969d900-e92e-11e9-9930-1029c030a974.png" alt="" width=228px title="Atlanta Office Market Analysis 2017" "/ style="border: 1px solid black">](/images/atl_office_analysis_mg.pdf)
+**Graphic** Photoshop, Illustrator, InDesign
 
-**For a list of projects, [click here.](/doc)**
+**Mapping** ArcMap, ArcGIS Pro,   Erdas Imagine, QGIS,  ArcGIS Server
 
-### Architectural Portfolio from 2013 to 2018:
+**Data Processing** Tableau, SPSS, RStudio
 
-<img src="/page/work_sample_files/MG_Portfolio.png" alt="" width="800px" style="border: 1px solid black" / >
+## <span style="color:blue">Professional Skills</span>
 
-<a href="/images/Portfolio_MengGao.pdf" target="_blank">Click here view the portfolio.</a>
+
+**I work as the [GIS Planner](https://apdurban.com/about/people/meng-gao/) at APD Urban Planning and Management since July 2019.**
+
+These are my work highlights: 
+
+• Developed several site plans for community improvement at various sites in the City of Florence and the City of Houston. 
+
+• Manages the GIS database and server. 
+
+• Sought to automate APD-U’s analysis work using various tools and coding scripts.
+
+The following descriptions are my prfossional skills at work. You can click on the links for work samples.
+
 ### Site Planning 
 
 Creating site plans for neighborhood development from the level of street block to neighborhood.
@@ -98,3 +109,31 @@ Previous plans and upcoming projects scan.
 Build apps and dashboards in ESRI to monitor field data collection.
 
 Collect housing characteristics by field works.
+
+## <span style="color:blue">Professional Development</span>
+
+
+**American Planning Association** 
+
+Enrolled in [AICP Pilot Program.](https://www.planning.org/aicp/candidate/)
+
+**Student Planning Association of Georgia Tech** 
+
+*May 2018 to April 2019*&nbsp;&nbsp;&nbsp; Board Member: Webmaster 
+
+Managed the [SPA website](www.georgiatechspa.com), created multi-media marketing materials, organized poster trainings.
+
+**Georgia Planning Association Spring Conference 2019** 
+
+Session Presenter: [Emerging Voices: Analyzing and Visualizing Transportation Issues Around Atlanta]
+
+**APA National Planning Conference 2019**
+
+
+Poster Presentation: [Analyzing Bikeshare Activity Using Bing Map API](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
+
+
+**Midtown Alliance Annual Meeting 2018**
+
+[Conference Volunteer](https://www.midtownatl.com/do/2018-midtown-alliance-annual-meeting)
+
