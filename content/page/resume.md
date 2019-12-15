@@ -7,8 +7,6 @@ comments: false
 ---
 Please go to [Work Samples Tab](/work-samples/) for list of skills and examples.  [<span style="color:blue">Download PDF Resume here.</span>](/images/Meng_Gao_ResumeSep2019_web.pdf)
 
-Email:  menggao114@gmail.com
-
 #### *Meng Gao*
 ## Education
 
