@@ -6,15 +6,22 @@ weight: -110
 comments: false
 ---
 
+<a href="/images/Meng_Gao_Resume_Dec2019.pdf" target="_blank"><span style="color:blue">Download my latest Resume here.</span> </a> Last update: December, 2019.
+
+
 ## <span style="color:blue">Software</span>
 
 **Modelling and Visualization** Rhino, Grasshopper, Sketchup, AutoCAD, V-ray, 3dsMAX
 
 **Graphic** Photoshop, Illustrator, InDesign
 
-**Mapping** ArcMap, ArcGIS Pro,   Erdas Imagine, QGIS,  ArcGIS Server
+**Mapping** ArcMap, ArcGIS Pro,  ArcGIS Urban, Esri City Engine,  Erdas Imagine, QGIS
 
-**Data Processing** Tableau, SPSS, RStudio
+**Data Management** ArcGIS Server, ArcSDE, PostgreSQL
+
+**Data Processing** Tableau, SPSS, RStudio, Access, Advanced Excel
+
+**Application and Web Development** Markdown, CSS, HTML, Shiny, Python
 
 ## <span style="color:blue">Professional Skills</span>
 
@@ -23,13 +30,23 @@ comments: false
 
 These are my work highlights: 
 
-• Developed several site plans for community improvement at various sites in the City of Florence and the City of Houston. 
 
-• Manages the GIS database and server. 
 
-• Sought to automate APD-U’s analysis work using various tools and coding scripts.
 
-The following descriptions are my prfossional skills at work. You can click on the links for work samples.
+
+
+
+• Developed site plans, master plans, and renderings  for community revitalization at various cities (Florence SC, Houston TX, Cincinnati, OH, Spartanburg SC) using both architectural path (AutoCAD, Sketchup, Adobe CC) and GIS path (ArcGIS Pro, ArcGIS Urban, City Engine).
+
+• Manages the GIS database and server: using ArcSDE, ArcGIS Server, and PostgreSQL to host GIS data and online maps with multiple query options and layers.
+
+• Sought to automate APD-U’s analysis work using various tools and coding scripts. Automated the housing supply and demand gap analysis process and multi-level Census data downloading process.
+
+• Completed [market analysis](https://highlandtransformationplan.files.wordpress.com/2019/09/9.17.19-steering-committee-meeting_sml.pdf#page=22")  and [economic analysis](https://highlandtransformationplan.files.wordpress.com/2019/12/11.5.19-steering-committee-mtg4.pdf#page=16") reports for Spartanburg's Highland Transformation Plan.
+
+• Project management role of Westside Future Fund Mapping Task.
+
+**The following descriptions are my prfossional skills at work. You can click on the links for work samples.**
 
 ### Site Planning 
 
@@ -69,6 +86,8 @@ Financial analysis and  creating Pro Forma.
 
 Financial analysis under different Low-Income Housing Tax Credit (LIHTC) scenarios:  9% and 4%.
 Calculate development budget, construction loans, cash flow based on development program.
+
+Residential market analysis looking at home owners, renters, recent sales and permits, and socioeconomic indicators. Example: [Spartanburg Highland Neighborhood Transformation Plan Market Analysis.](https://highlandtransformationplan.files.wordpress.com/2019/09/9.17.19-steering-committee-meeting_sml.pdf#page=22")
 
 ### R Skills
 

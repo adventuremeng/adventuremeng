@@ -16,6 +16,7 @@ weight: -270
 [<img src="https://user-images.githubusercontent.com/53570321/70857624-2e720580-1ec0-11ea-9e22-c277645e23af.png" alt="" width=228px title="Puerto Rico Studio: A Data Tool Using Tableau" />](/doc/puerto-rico-studio-a-data-tool-using-tableau/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857619-1c906280-1ec0-11ea-9a19-2276c87c4bcc.png" alt="" width=228px title="Driving and Marta Transit Accessibility Study" "/ >](/doc/driving-and-marta-transit-accessibility-study/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857616-126e6400-1ec0-11ea-80b7-ab6bfb696a49.png" alt="" width=228px title="Tech Playground: Georgia Tech Shenzhen Campus Design" "/ >](/doc/tech-playground-the-georgia-tech-shenzhen-campus-design/)
+
 **[All Projects >](/doc)**
 <br/><br/>
 
@@ -23,9 +24,9 @@ weight: -270
 ### About Me
 
 
-<a href="/images/Meng_Gao_ResumeSep2019_web.pdf" target="_blank"><span style="color:blue">Download my latest Resume here.</span> </a>
+<a href="/images/Meng_Gao_Resume_Dec2019.pdf" target="_blank"><span style="color:blue">Download my latest Resume here.</span> </a> Last update: December, 2019.
 
-I am currently working for APD Urban Planning and Management, Atlanta. APD provides comprehensive neighborhood planning, mortgage loan underwriting, and housing and community development. At work, I utilize data collection, analysis, and visualization to reveal community insight and development opportunities.
+I am currently working for APD Urban Planning and Management, Atlanta. APD provides comprehensive neighborhood planning, real estate development, and housing and community development. At work, I utilize data collection, analysis, and visualization to reveal community insights and development opportunities.
 
 In May 2019, I graduated from the Master of City and Regional Planning program at Georgia Tech concentrating in GIS and urban design. Before that, I studied Architecture at Xi'an Jiaotong University in Xi'an, China. You can find my architecture portfolio below.
 
