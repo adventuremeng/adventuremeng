@@ -6,10 +6,10 @@ weight: -110
 comments: false
 ---
 
-<a href="/images/Meng_Gao_Resume_Dec2019.pdf" target="_blank"><span style="color:blue">Download my latest Resume here.</span> </a> Last update: December, 2019.
+<a href="/images/Meng_Gao_Resume_Dec2019.pdf" target="_blank"><span style="color:navy">Download my latest Resume here.</span> </a> Last update: December, 2019.
 
 
-## <span style="color:blue">Software</span>
+## <span style="color:navy">Software</span>
 
 **Modelling and Visualization** Rhino, Grasshopper, Sketchup, AutoCAD, V-ray, 3dsMAX
 
@@ -23,7 +23,35 @@ comments: false
 
 **Application and Web Development** Markdown, CSS, HTML, Shiny, Python
 
-## <span style="color:blue">Professional Skills</span>
+
+## <span style="color:navy">Professional Development</span>
+
+
+**American Planning Association** 
+
+Enrolled in [AICP Pilot Program.](https://www.planning.org/aicp/candidate/)
+
+**Student Planning Association of Georgia Tech** 
+
+*May 2018 to April 2019*&nbsp;&nbsp;&nbsp; Board Member: Webmaster 
+
+Managed the [SPA website](www.georgiatechspa.com), created multi-media marketing materials, organized poster trainings.
+
+**Georgia Planning Association Spring Conference 2019** 
+
+Session Presenter: Emerging Voices: Analyzing and Visualizing Transportation Issues Around Atlanta
+
+**APA National Planning Conference 2019**
+
+
+Poster Presentation: [Analyzing Bikeshare Activity Using Bing Map API](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
+
+
+
+
+
+
+## <span style="color:navy">Professional Skills</span>
 
 
 **I work as the [GIS Planner](https://apdurban.com/about/people/meng-gao/) at APD Urban Planning and Management since July 2019.**
@@ -128,31 +156,4 @@ Previous plans and upcoming projects scan.
 Build apps and dashboards in ESRI to monitor field data collection.
 
 Collect housing characteristics by field works.
-
-## <span style="color:blue">Professional Development</span>
-
-
-**American Planning Association** 
-
-Enrolled in [AICP Pilot Program.](https://www.planning.org/aicp/candidate/)
-
-**Student Planning Association of Georgia Tech** 
-
-*May 2018 to April 2019*&nbsp;&nbsp;&nbsp; Board Member: Webmaster 
-
-Managed the [SPA website](www.georgiatechspa.com), created multi-media marketing materials, organized poster trainings.
-
-**Georgia Planning Association Spring Conference 2019** 
-
-Session Presenter: [Emerging Voices: Analyzing and Visualizing Transportation Issues Around Atlanta]
-
-**APA National Planning Conference 2019**
-
-
-Poster Presentation: [Analyzing Bikeshare Activity Using Bing Map API](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
-
-
-**Midtown Alliance Annual Meeting 2018**
-
-[Conference Volunteer](https://www.midtownatl.com/do/2018-midtown-alliance-annual-meeting)
 

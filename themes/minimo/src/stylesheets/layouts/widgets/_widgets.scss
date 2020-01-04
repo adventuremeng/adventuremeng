@@ -28,11 +28,7 @@
   }
 }
 
-.header-widgets {
-  .main-menu + & {
-    margin-top: 1em;
-  }
-}
+
 
 @import 'about';
 @import 'breadcrumbs';

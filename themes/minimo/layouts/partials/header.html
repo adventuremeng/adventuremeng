@@ -13,12 +13,7 @@
 
       {{- partial "nav/menus/main" . -}}
 
-      {{- $headerWidgets := .Site.Params.widgets.header -}}
-      <div class='header-widgets'>
-        <div class='container'>
-          {{- partial "extras/widget_area" ( dict "Widgets" $headerWidgets "Scope" . ) -}}
-        </div>
-      </div>
+   
 
       <header id='header' class='header site-header'>
         <div class='container sep-after'>

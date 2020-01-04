@@ -17,7 +17,7 @@ weight: -270
 [<img src="https://user-images.githubusercontent.com/53570321/70857619-1c906280-1ec0-11ea-9a19-2276c87c4bcc.png" alt="" width=228px title="Driving and Marta Transit Accessibility Study" "/ >](/doc/driving-and-marta-transit-accessibility-study/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857616-126e6400-1ec0-11ea-80b7-ab6bfb696a49.png" alt="" width=228px title="Tech Playground: Georgia Tech Shenzhen Campus Design" "/ >](/doc/tech-playground-the-georgia-tech-shenzhen-campus-design/)
 
-**[All Projects >](/doc)**
+**[All Projects >](/project)**
 <br/><br/>
 
 
