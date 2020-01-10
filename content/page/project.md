@@ -10,6 +10,7 @@ comments: false
 [<img src="https://user-images.githubusercontent.com/53570321/71757059-13f8cf80-2e61-11ea-9f86-4b25fcd29656.png" alt="" width=228px title="Data Mining: Twitter Posts about Marta Bus" "/> ](/doc/data-mining-twitter-posts-about-marta-bus/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857659-cb34a300-1ec0-11ea-942f-edeba7835679.png" alt="" width=228px title="Spatial Analysis of AirBnb Listings for Manhattan, New York" "/> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=228px title="BingAPI and R: Bikeshare Analysis" "/> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
+[<img src="https://user-images.githubusercontent.com/53570321/72114911-22d4fb80-3313-11ea-8e54-bfd92f96359b.png" alt="" width=228px title="Two Ways of Creating Random Address Points Using RStudio" "/> ](/post/two-ways-of-creating-random-address-points-using-rstudio/)
 
 
 
