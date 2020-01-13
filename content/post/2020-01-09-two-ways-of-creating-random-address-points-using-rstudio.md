@@ -138,8 +138,6 @@ Here, if I use the same “select by location square bracket” method to select
 
 
 ```
-fn_seattle$layer<- 1		#Assign a value for further filter
-
 nn_seattle <- st_nn(fn_seattle, use_seattle, sparse = TRUE, k = 1, maxdist = Inf,
       returnDist = FALSE, progress = TRUE)
 

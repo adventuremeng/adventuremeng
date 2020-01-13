@@ -16,8 +16,21 @@ enableRobotsTXT = true # generate robots.txt
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
 
+### Jan 12 2020, try to configure highlighting:
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1" 
 enableEmoji = true
+#############
+#######Jan 12 2020 also try to change the wrap width:
 
+[[params.customCSS]]
+ href = "pathToFileUnderStatic"
+ #####
+ 
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 

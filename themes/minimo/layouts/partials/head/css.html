@@ -1,3 +1,7 @@
 <style>
-:root{--color-accent: {{- .Site.Params.settings.accentColor | default "#ffcd00" -}};}
+:root{--color-accent: {{- .Site.Params.settings.accentColor | default "#00ccff" -}};}
 </style>
+
+<link rel="stylesheet" href="{{"css/github-gist.css" | absURL}}" rel="stylesheet" id="theme-stylesheet">
+<script src="{{ "js/highlight.pack.js" | absURL }}"></script>
+<script>hljs.initHighlightingOnLoad();</script>
