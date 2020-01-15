@@ -39,8 +39,8 @@ comments: false
 
 [<img src="https://user-images.githubusercontent.com/53570321/71757497-612a7080-2e64-11ea-82ce-4d5b39755f3d.png" alt="" width=228px title="Atlanta Office Real-Estate Market Analysis 2017" "/ >](/doc/atlanta-office-real-estate-market-analysis-2017/)
 [<img src="https://user-images.githubusercontent.com/53570321/71757091-44d90480-2e61-11ea-873d-f8cf2c807718.png" alt="" width=228px title="Simple Shiny App: Stardew Valley Bundle Query Tool" "/ >](/post/simple-shiny-app-stardew-valley-bundle-query-tool/)
+[<img src="https://github.com/adventuremeng/website_img/blob/master/post/config_theme/Screen%20Shot%202020-01-14%20at%207.58.00%20PM.png?raw=true" alt="" width=228px title="Several Ways of Tweaking the Minimo Theme for Hugo" "/ >](/post/several-ways-of-tweaking-the-minimo-theme-for-hugo/)
 [<img src="https://user-images.githubusercontent.com/53570321/71757098-50c4c680-2e61-11ea-8219-608f5ac4a604.png" alt="" width=228px title="Set Up RSS for Hugo Theme Minimo" "/ >](/post/set-up-rss-for-hugo-theme-minimo/)
-
 
 ### [Grad School Projects in a List→](/doc)
 
