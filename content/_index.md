@@ -10,12 +10,12 @@ weight: -270
 
 ### Projects
 
-[<img src="https://user-images.githubusercontent.com/53570321/70857659-cb34a300-1ec0-11ea-942f-edeba7835679.png" alt="" width=280px title="Spatial Analysis of AirBnb Listings for Manhattan, New York" "/> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=280px title="BingAPI and R: Bikeshare Analysis" "/> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857629-3d58b800-1ec0-11ea-91ad-ce0a8e6956dc.png" alt="" width=280px title="Remote sensing: Land Use Change Detection in Malawi" />](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857624-2e720580-1ec0-11ea-9e22-c277645e23af.png" alt="" width=280px title="Puerto Rico Studio: A Data Tool Using Tableau" />](/doc/puerto-rico-studio-a-data-tool-using-tableau/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857619-1c906280-1ec0-11ea-9a19-2276c87c4bcc.png" alt="" width=280px title="Driving and Marta Transit Accessibility Study" "/ >](/doc/driving-and-marta-transit-accessibility-study/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857616-126e6400-1ec0-11ea-80b7-ab6bfb696a49.png" alt="" width=280px title="Tech Playground: Georgia Tech Shenzhen Campus Design" "/ >](/doc/tech-playground-the-georgia-tech-shenzhen-campus-design/)
+[<img src="https://user-images.githubusercontent.com/53570321/70857659-cb34a300-1ec0-11ea-942f-edeba7835679.png" alt="" width=32% title="Spatial Analysis of AirBnb Listings for Manhattan, New York" "/> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
+[<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=32% title="BingAPI and R: Bikeshare Analysis" "/> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
+[<img src="https://user-images.githubusercontent.com/53570321/70857629-3d58b800-1ec0-11ea-91ad-ce0a8e6956dc.png" alt="" width=32% title="Remote sensing: Land Use Change Detection in Malawi" />](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
+[<img src="https://user-images.githubusercontent.com/53570321/70857624-2e720580-1ec0-11ea-9e22-c277645e23af.png" alt="" width=32% title="Puerto Rico Studio: A Data Tool Using Tableau" />](/doc/puerto-rico-studio-a-data-tool-using-tableau/)
+[<img src="https://user-images.githubusercontent.com/53570321/70857619-1c906280-1ec0-11ea-9a19-2276c87c4bcc.png" alt="" width=32% title="Driving and Marta Transit Accessibility Study" "/ >](/doc/driving-and-marta-transit-accessibility-study/)
+[<img src="https://user-images.githubusercontent.com/53570321/70857616-126e6400-1ec0-11ea-80b7-ab6bfb696a49.png" alt="" width=32% title="Tech Playground: Georgia Tech Shenzhen Campus Design" "/ >](/doc/tech-playground-the-georgia-tech-shenzhen-campus-design/)
 
 **[All Projects >](/project)**
 <br/><br/>
