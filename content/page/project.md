@@ -11,7 +11,7 @@ comments: false
 [<img src="https://user-images.githubusercontent.com/53570321/70857659-cb34a300-1ec0-11ea-942f-edeba7835679.png" alt="" width=32%  title="Spatial Analysis of AirBnb Listings for Manhattan, New York" "/> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=32%  title="BingAPI and R: Bikeshare Analysis" "/> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
 [<img src="https://user-images.githubusercontent.com/53570321/72114911-22d4fb80-3313-11ea-8e54-bfd92f96359b.png" alt="" width=32% title="Two Ways of Creating Random Address Points Using RStudio" "/> ](/post/two-ways-of-creating-random-address-points-using-rstudio/)
-
+[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/Screen%20Shot%202020-02-10%20at%2011.16.08%20PM.png?raw=true" alt="" width=32% title="Historical Real Estate Trends of Seattle Homes" "/> ](/post/historical-real-estate-trends-of-seattle-homes/)
 
 
 ## <center>GIS and Remote Sensing</center>
