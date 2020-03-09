@@ -6,7 +6,7 @@ weight: -110
 comments: false
 ---
 
-<a href="/images/Meng_Gao_Resume_Dec2019.pdf" target="_blank"><span style="color:navy">Download my latest Resume here.</span> </a> Last update: December, 2019.
+<a href="/images/MengGao_Resume_2020_03.pdf" target="_blank"><span style="color:navy">Download my latest Resume here.</span> </a> Last update: March, 2020.
 
 
 ## <span style="color:navy">Software</span>
@@ -54,13 +54,7 @@ Poster Presentation: [Analyzing Bikeshare Activity Using Bing Map API](/doc/anal
 ## <span style="color:navy">Professional Skills</span>
 
 
-**I work as the [GIS Planner](https://apdurban.com/about/people/meng-gao/) at APD Urban Planning and Management since July 2019.**
-
-These are my work highlights: 
-
-
-
-
+**I worked as the GIS Planner at APD Urban Planning and Management from July 2019 to March 2020.These are my work highlights when working at APD:**
 
 
 

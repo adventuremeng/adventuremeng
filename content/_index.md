@@ -5,7 +5,7 @@ menu:
 title: Home
 weight: -270
 ---
-<img src="https://user-images.githubusercontent.com/53570321/70857492-5dd34300-1ebd-11ea-8c2e-64b877782bfa.png" alt="" width=100% />
+<img src="https://github.com/adventuremeng/website_img/blob/master/other/adventuremeng_cover.png?raw=true" alt="" width=100% />
 
 
 ### Projects
@@ -24,13 +24,13 @@ weight: -270
 ### About Me
 
 
-<a href="/images/Meng_Gao_Resume_Dec2019.pdf" target="_blank"><span style="color:blue">Download my latest Resume here.</span> </a> Last update: December, 2019.
+<a href="/images/MengGao_Resume_2020_03.pdf" target="_blank"><span style="color:blue">Download my latest Resume here.</span> </a> Last update: March, 2020.
 
-I am currently working for APD Urban Planning and Management, Atlanta. APD provides comprehensive neighborhood planning, real estate development, and housing and community development. At work, I utilize data collection, analysis, and visualization to reveal community insights and development opportunities.
+I am currently working for Connetics Transportation Group, Atlanta. CTG provides high-quality planning services to public transit, local and state transportation agencies across the country.At work, I support a wide range of transit planning projects including comprehensive operational analyses and system redesigns, transit development plans, corridor studies for major capital investment projects, and other short-term and long-term service planning studies.
 
 In May 2019, I graduated from the Master of City and Regional Planning program at Georgia Tech concentrating in GIS and urban design. Before that, I studied Architecture at Xi'an Jiaotong University in Xi'an, China. You can find my architecture portfolio below.
 
-Recently, I am most interested in GIS, statistics, and R. My goal is to use data-driven information, geospatial relationships, and design aspects to understand and solve urban problems. I like to study about neighborhood gentrification, housing market dynamics, non-motorized transportation promotion, and environmental and social justice problems. 
+I am most interested in GIS, statistics, and R. My goal is to use data-driven information, geospatial relationships, and design aspects to understand and solve urban problems. I like to study about neighborhood gentrification, housing market dynamics, non-motorized transportation promotion, and environmental and social justice problems. 
 
 **You can find my previous studies [here](/doc). You can also find my skill sets [here](/about).**
 
