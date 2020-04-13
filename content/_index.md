@@ -10,12 +10,13 @@ weight: -270
 
 ### Projects
 
+[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/Screen%20Shot%202020-04-12%20at%2011.53.06%20PM.png?raw=true" alt="" width=32% title="Likelihood of Mom Quitting Jobs for Childcare Study" "/> ](doc/study-on-the-likelihood-of-moms-quitting-jobs-for-childcare/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857659-cb34a300-1ec0-11ea-942f-edeba7835679.png" alt="" width=32% title="Spatial Analysis of AirBnb Listings for Manhattan, New York" "/> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=32% title="BingAPI and R: Bikeshare Analysis" "/> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857629-3d58b800-1ec0-11ea-91ad-ce0a8e6956dc.png" alt="" width=32% title="Remote sensing: Land Use Change Detection in Malawi" />](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857624-2e720580-1ec0-11ea-9e22-c277645e23af.png" alt="" width=32% title="Puerto Rico Studio: A Data Tool Using Tableau" />](/doc/puerto-rico-studio-a-data-tool-using-tableau/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857619-1c906280-1ec0-11ea-9a19-2276c87c4bcc.png" alt="" width=32% title="Driving and Marta Transit Accessibility Study" "/ >](/doc/driving-and-marta-transit-accessibility-study/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857616-126e6400-1ec0-11ea-80b7-ab6bfb696a49.png" alt="" width=32% title="Tech Playground: Georgia Tech Shenzhen Campus Design" "/ >](/doc/tech-playground-the-georgia-tech-shenzhen-campus-design/)
+
 
 **[All Projects >](/project)**
 <br/><br/>
@@ -41,7 +42,7 @@ I am most interested in GIS, statistics, and R. My goal is to use data-driven in
 
 Study, work, and have fun. I consider these elements of life as Meng Adventure.
 
-In my spare time, I like salsa dancing, playing the flute, going to the gym, and posting videos (in Chinese) on [Bilibili](https://space.bilibili.com/12234819) weekly. 
+In my spare time, I like salsa dancing, playing the flute, going to the gym, and posting videos (in Chinese) on Bilibili. 
 
 *If you would like to subsribe to my website posts, you can use RSS with [this link.](https://www.adventuremeng.com/index.xml)*
 
