@@ -42,7 +42,7 @@ I am most interested in GIS, statistics, and R. My goal is to use data-driven in
 
 Study, work, and have fun. I consider these elements of life as Meng Adventure.
 
-In my spare time, I like salsa dancing, playing the flute, going to the gym, and posting videos (in Chinese) on Bilibili. 
+In my spare time, I like playing the the flute and the guitar, cooking, playing video games, and reading books. 
 
 *If you would like to subsribe to my website posts, you can use RSS with [this link.](https://www.adventuremeng.com/index.xml)*
 
