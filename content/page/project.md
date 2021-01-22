@@ -8,7 +8,7 @@ comments: false
 
 ## <center>R Studio</center>
 
-[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/Screen%20Shot%202020-04-12%20at%2011.53.06%20PM.png?raw=true" alt="" width=32% title="Likelihood of Mom Quitting Jobs for Childcare Study" "/> ](doc/study-on-the-likelihood-of-moms-quitting-jobs-for-childcare/)
+[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/Screen%20Shot%202020-04-12%20at%2011.53.06%20PM.png?raw=true" alt="" width=32% title="Likelihood of Mom Quitting Jobs for Childcare Study" "/> ](/doc/study-on-the-likelihood-of-moms-quitting-jobs-for-childcare/)
 [<img src="https://user-images.githubusercontent.com/53570321/71757059-13f8cf80-2e61-11ea-9f86-4b25fcd29656.png" alt="" width=32% title="Data Mining: Twitter Posts about Marta Bus" "/> ](/doc/data-mining-twitter-posts-about-marta-bus/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857659-cb34a300-1ec0-11ea-942f-edeba7835679.png" alt="" width=32%  title="Spatial Analysis of AirBnb Listings for Manhattan, New York" "/> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=32%  title="BingAPI and R: Bikeshare Analysis" "/> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
