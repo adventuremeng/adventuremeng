@@ -11,12 +11,12 @@ authors: []
 
 In Tableau, you can show categorical records as percentage of total bar charts. For example, you have a data table like this:
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/data.PNG?raw=true" alt="" width=250px />
+<img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/post/tableau_average/data.PNG" alt="" width=250px />
 
 
 You’re interested in the percentage of total for A, B, and C distribution for each name. To do this, you can do this by putting “Name” on Columns, and “Category” on Rows, and change the “Category” to Measure(Count), Quick Table Calculation to Percent of Total, and Compute Using “Category”. Drag “Category” to color, and you can get a chart like this:
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/1.PNG?raw=true" alt="" width=500px />
+<img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/post/tableau_average/1.PNG" alt="" width=500px />
 
 
 
@@ -32,13 +32,11 @@ First, change the “Category” data order and put “A” at the bottom.
 Create a calculated field “A Percentage” as 
 SUM(IF [Category]="A" THEN 1 ELSE 0 END)/COUNT([Number of Records])
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/calculate%20field.PNG?raw=true" alt="" width=700px />
-
-
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/tableau_average/calculate%20field.PNG?raw=true" alt="" width=700px />
 
 Drag “A Percentage” to Rows, and remove the color card.
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/2.PNG?raw=true" alt="" width=500px />
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/tableau_average/2.PNG?raw=true" alt="" width=500px />
 
 
 
@@ -48,17 +46,17 @@ Then, set Dual Axis for the two Rows items, and switch back the chart type to ba
 
 Drag the Average Line from Analytics to AGG(A Percentage).
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/3.PNG?raw=true" alt="" width=500px />
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/tableau_average/3.PNG?raw=true" alt="" width=500px />
 
 
 
 Right click on one of the Y axis, and click on Synchronize Axis.
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/4.PNG?raw=true" alt="" width=500px />
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/tableau_average/4.PNG?raw=true" alt="" width=500px />
 
 
 
 Drag the “A Percentage” to the left of “Category”, or set the color of “A Percentage” to transparent. Tada, there you have a bar chart with the average line for percentage of total for Category A!
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/6.PNG?raw=true" alt="" width=500px />
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/tableau_average/6.PNG?raw=true" alt="" width=500px />
 

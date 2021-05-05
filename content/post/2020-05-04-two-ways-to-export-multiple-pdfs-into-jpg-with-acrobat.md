@@ -21,7 +21,7 @@ Adobe Acrobat DC
 
 Use Action Wizard in the tools, click on “Create New Action…”, click on “Save”, and select “Export to JPEG”. More information can be found [here.](https://answers.acrobatusers.com/I-want-to-batch-convert-from-pdf-to-jpg-instead-of-doing-the-files-one-by-one-using-Adobe-Acrobat-Pro-q210266.aspx)
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/answerImage91278-11032831.jpg?raw=true" alt="" width=400px />
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/acrobat/answerImage91278-11032831.jpg?raw=true" alt="" width=400px />
 
 
 

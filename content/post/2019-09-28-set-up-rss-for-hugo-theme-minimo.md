@@ -9,7 +9,7 @@ tags:
 authors: []
 ---
 
-<img src="https://themes.gohugo.io//theme/minimo/images/logo.png" alt="" width=10% "/>
+<img src="https://themes.gohugo.io//theme/minimo/images/logo.png" alt="" width=10% />
 
 Image: Minimo Theme logo.
 

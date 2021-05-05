@@ -1,21 +1,23 @@
 ---
+title: "Home"
 menu:
 - main
 - sidebar
-title: Home
 weight: -270
+output: pdf_document
 ---
-<img src="https://github.com/adventuremeng/website_img/blob/master/other/adventuremeng_cover.png?raw=true" alt="" width=100% />
 
+
+<img src="https://github.com/adventuremeng/website_img/blob/master/other/adventuremeng_cover.png?raw=true" alt="" width=100% />
 
 ### Projects
 
-[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/Screen%20Shot%202020-04-12%20at%2011.53.06%20PM.png?raw=true" alt="" width=32% title="Likelihood of Mom Quitting Jobs for Childcare Study" "/> ](doc/study-on-the-likelihood-of-moms-quitting-jobs-for-childcare/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857659-cb34a300-1ec0-11ea-942f-edeba7835679.png" alt="" width=32% title="Spatial Analysis of AirBnb Listings for Manhattan, New York" "/> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=32% title="BingAPI and R: Bikeshare Analysis" "/> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
+[<img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/cover/Screen%20Shot%202020-04-12%20at%2011.53.06%20PM.png" alt="" width=32%  /> ](doc/study-on-the-likelihood-of-moms-quitting-jobs-for-childcare/)
+[<img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/cover/airbnbny.png" alt="" width=32% title="Spatial Analysis of AirBnb Listings for Manhattan, New York" /> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
+[<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=32% title="BingAPI and R: Bikeshare Analysis" /> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857629-3d58b800-1ec0-11ea-91ad-ce0a8e6956dc.png" alt="" width=32% title="Remote sensing: Land Use Change Detection in Malawi" />](/doc/malawi-land-use-change-detection-using-remote-sensing-methods/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857624-2e720580-1ec0-11ea-9e22-c277645e23af.png" alt="" width=32% title="Puerto Rico Studio: A Data Tool Using Tableau" />](/doc/puerto-rico-studio-a-data-tool-using-tableau/)
-[<img src="https://user-images.githubusercontent.com/53570321/70857619-1c906280-1ec0-11ea-9a19-2276c87c4bcc.png" alt="" width=32% title="Driving and Marta Transit Accessibility Study" "/ >](/doc/driving-and-marta-transit-accessibility-study/)
+[<img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/cover/transit-accessibility-atl.png" alt="" width=32% title="Driving and Marta Transit Accessibility Study" />](/doc/driving-and-marta-transit-accessibility-study/)
 
 
 **[All Projects >](/project)**
@@ -33,10 +35,10 @@ In May 2019, I graduated from the Master of City and Regional Planning program a
 
 I am most interested in GIS, statistics, and R. My goal is to use data-driven information, geospatial relationships, and design aspects to understand and solve urban problems. I like to study about neighborhood gentrification, housing market dynamics, non-motorized transportation promotion, and environmental and social justice problems. 
 
-**You can find my previous studies [here](/doc). You can also find my skill sets [here](/about).**
 
 
-<a href="/images/Portfolio_MengGao.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/53570321/70857810-8827ff00-1ec3-11ea-9e6b-63d1858af656.png" alt="" width="100%" / ></a>
+
+<a href="/images/Portfolio_MengGao.pdf" target="_blank"><img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/cover/architecture-portfolio.png" alt="" width="100%" /></a>
 
 ### About the Adventure 
 
