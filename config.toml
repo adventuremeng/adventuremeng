@@ -92,7 +92,7 @@ rtl = false
 enable = true
 
 [params.widgets]
-header = ["breadcrumbs"]
+#header = ["breadcrumbs"]
 homepage = ["recent_posts"]
 sidebar = ["about","search","taxonomy_cloud"] #"sidebar_menu"  That I take out
 footer = ["social_menu"]
