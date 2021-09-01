@@ -29,7 +29,9 @@ output: pdf_document
 
 <a href="/images/MengGao_Resume_2020_03.pdf" target="_blank"><span style="color:blue">Download my latest Resume here.</span> </a> Last update: March, 2020.
 
-I am currently working for Connetics Transportation Group, Atlanta. CTG provides high-quality planning services to public transit, local and state transportation agencies across the country.At work, I support a wide range of transit planning projects including comprehensive operational analyses and system redesigns, transit development plans, corridor studies for major capital investment projects, and other short-term and long-term service planning studies.
+I am certified as AICP, the American Institute of Certified Planners, by [APA](https://www.planning.org/aicp/). I received the certification in August 2021.
+
+I am currently working for Connetics Transportation Group, Atlanta. CTG provides high-quality planning services to public transit, local and state transportation agencies across the country. At work, I support a wide range of transit planning projects including comprehensive operational analyses and system redesigns, transit development plans, corridor studies for major capital investment projects, and other short-term and long-term service planning studies.
 
 In May 2019, I graduated from the Master of City and Regional Planning program at Georgia Tech concentrating in GIS and urban design. Before that, I studied Architecture at Xi'an Jiaotong University in Xi'an, China. You can find my architecture portfolio below.
 
