@@ -41,7 +41,7 @@ I compared the[Zestimate® high value](https://www.zillow.com/) with the walk Sc
 
 Then, I plotted the Walk Score on the map, where we can see the existence of a lot of waterfront homes. These home locations typically have low walkability, and they have extraordinarily expensive prices. From the map we can also see that these places have better walkability: Queen Anne, Northwest Seattle, Wallingford, North Seattle, Central District, and Hillman City.
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/2021-09-01-seattle-walkscore-price/fotoprocess_Page_1.jpg?raw=true" alt="" width=600px title="All Home Score" />
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/2021-09-01-seattle-walkscore-price/fotoprocess_Page_1.jpg?raw=true" alt="" width=400px title="All Home Score" />
 
 
 As I gradually filtered the home prices from high to low, the slope of the regression line turned positive when homes were lower than 2 million dollars. It means that for homes with a reasonable price, the increase of Walk Score can increase the home price. 
@@ -51,12 +51,12 @@ As I gradually filtered the home prices from high to low, the slope of the regre
 
 Then, I plotted on the map the home price for homes under 1.5 million dollars. We can see that these places have less expensive homes: south of West Seattle Bridge, around the King County International Airport, Northwest Seattle, and North Seattle.
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/2021-09-01-seattle-walkscore-price/fotoprocess_Page_2.jpg?raw=true" alt="" width=600px title=" Home Price Selected" />
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/2021-09-01-seattle-walkscore-price/fotoprocess_Page_2.jpg?raw=true" alt="" width=400px title=" Home Price Selected" />
 
 
 We can say that these places have relatively lower home prices and higher walkability: Northwest Seattle, Fairmount Park, and Columbia City.
 
-<img src="https://github.com/adventuremeng/website_img/blob/master/post/2021-09-01-seattle-walkscore-price/fotoprocess_Page_3.jpg?raw=true" alt="" width=600px title="Home under 750k and over 70" />
+<img src="https://github.com/adventuremeng/website_img/blob/master/post/2021-09-01-seattle-walkscore-price/fotoprocess_Page_3.jpg?raw=true" alt="" width=400px title="Home under 750k and over 70" />
 
 
 ## Walk Score and Year Home Built
