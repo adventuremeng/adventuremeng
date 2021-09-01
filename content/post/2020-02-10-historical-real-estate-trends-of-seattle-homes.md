@@ -69,3 +69,11 @@ Townhomes are built in more recent years;
 Home construction and sold prices are more and more expensive;
 
 Homes in more expensive neighborhoods are sold at the highest prices.
+
+
+*Zillow Disclaimer*
+
+
+© Zillow, Inc., 2006-2016. Use is subject to [Terms of Use](https://www.zillow.com/corp/Terms.htm)
+[What's a Zestimate?](https://www.zillow.com/wikipages/What-is-a-Zestimate/)
+
