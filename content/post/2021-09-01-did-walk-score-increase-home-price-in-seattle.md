@@ -87,10 +87,11 @@ Data can be deceptive. Without applying the reasonable filters, I would have con
 
 And yes, in Seattle, when not considering waterfront villas and antique homes, the walkability of the location can increase the home price, and newer homes are being built in more walkable locations.
 
-##Notes and Data Source
+**Notes and Data Source**
+
 Please note that there’s a data discrepancy issue in this study. Data from Zillow were downloaded in January 2020, and Data from Walk Score were downloaded in April 2021.
 
-<br/><br/>
+
 
 **Walk Score Disclaimer:**
 
