@@ -14,7 +14,7 @@ comments: false
 [<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=32%  title="BingAPI and R: Bikeshare Analysis" /> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
 [<img src="https://user-images.githubusercontent.com/53570321/72114911-22d4fb80-3313-11ea-8e54-bfd92f96359b.png" alt="" width=32% title="Two Ways of Creating Random Address Points Using RStudio" /> ](/post/two-ways-of-creating-random-address-points-using-rstudio/)
 [<img src="https://github.com/adventuremeng/website_img/blob/master/cover/Screen%20Shot%202020-02-10%20at%2011.16.08%20PM.png?raw=true" alt="" width=32% title="Historical Real Estate Trends of Seattle Homes" /> ](/post/historical-real-estate-trends-of-seattle-homes/)
-
+[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/walkscore.png?raw=true" alt="" width=32%  /> ](/post/did-walk-score-increase-home-price-in-seattle/)
 
 ## <center>GIS and Remote Sensing</center>
 
@@ -33,6 +33,7 @@ comments: false
 
 ## <center>Architecture and Urban Design</center>
 
+[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/urban_farm.png?raw=true" alt="" width=32%  /> ](/post/urban-farm-how-much-land-needed-to-feed-everyone/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857616-126e6400-1ec0-11ea-80b7-ab6bfb696a49.png" alt="" width=32% title="Tech Playground: Georgia Tech Shenzhen Campus Design" />](/doc/tech-playground-the-georgia-tech-shenzhen-campus-design/)
 
 

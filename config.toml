@@ -46,12 +46,6 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 
 ######Try adding a link on Aug 26:
-[[menu.main]]
-#Delete bilibili button on Sep 20 2019:
-#name = "哔哩哔哩"
-#weight = -10
-#identifier = "bilibili"
-#url = "https://space.bilibili.com/12234819"
 
 
 
@@ -112,7 +106,7 @@ titleSeparator = "•"
 [params.social]
 
 email = "menggao114[at]gmail.com"
-instagram = "meng_gao233"
+linkedin = "meng-gao-aicp-709077152"
 
 [params.comments]
 enable = true
