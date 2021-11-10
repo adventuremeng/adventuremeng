@@ -28,7 +28,7 @@ output: pdf_document
 ### About Me
 
 
-<a href="/images/MengGao_Resume_2020_03.pdf" target="_blank"><span style="color:blue">Download my latest Resume here.</span> </a> Last update: March, 2020.
+
 
 I am proud to be certified as AICP, the American Institute of Certified Planners, by [APA](https://www.planning.org/aicp/) in August 2021.
 
