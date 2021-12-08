@@ -37,10 +37,12 @@ The way I fixed this by using methods mentioned in the following two links:
 
 2. Copy the default [RSS template](https://gohugo.io/templates/rss/#the-embedded-rss-xml), 
 
-3. Change <description>{{ .Summary | html }}</description> to   <description>{{ "<![CDATA[" | safeHTML }}
+3. Change `<description>{{ .Summary | html }}</description>` to   
+  ```
+<description>{{ "<![CDATA[" | safeHTML }}
   {{ .Content }}]]>
 </description>
-
+  ```
 4. Save.
 
 Ta-da, I can read the full article (also with formatting) in Creek now!
