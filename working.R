@@ -1,8 +1,9 @@
 getwd()
-
+install.packages("blogdown")
 library(blogdown)
 blogdown::new_site(theme = "MunifTanjim/minimo", theme_example = TRUE)
 blogdown:::new_post_addin()
+blogdown::install_hugo()
 blogdown::hugo_version()
 
 blogdown::serve_site()
