@@ -13,7 +13,7 @@ output: pdf_document
 ### Projects
 
 [<img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/cover/Screen%20Shot%202020-04-12%20at%2011.53.06%20PM.png" alt="" width=32%  /> ](doc/study-on-the-likelihood-of-moms-quitting-jobs-for-childcare/)
-[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/urban_farm.png?raw=true" alt="" width=32%  /> ](/post/urban-farm-how-much-land-needed-to-feed-everyone/)
+[<img src="https://github.com/adventuremeng/website_img/raw/master/cover/isochrone.PNG" alt="" width=32%  /> ](/post/walkshed-around-marta-stations-by-opentripplanner-vs-simple-buffer/)
 [<img src="https://github.com/adventuremeng/website_img/blob/master/cover/walkscore.png?raw=true" alt="" width=32%  /> ](/post/did-walk-score-increase-home-price-in-seattle/)
 [<img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/cover/airbnbny.png" alt="" width=32% title="Spatial Analysis of AirBnb Listings for Manhattan, New York" /> ](/doc/spatial-analysis-of-airbnb-listings-for-manhattan-new-york/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857661-d12a8400-1ec0-11ea-8840-6066712b2c04.png" alt="" width=32% title="BingAPI and R: Bikeshare Analysis" /> ](/doc/analyzing-bikeshare-activity-using-r-and-bing-api/)
