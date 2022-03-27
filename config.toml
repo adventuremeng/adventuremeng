@@ -1,7 +1,7 @@
 baseURL = "https://www.adventuremeng.com"
 title = "Adventure Meng"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = "© Meng Gao, 2019-2021 · Made with blogdown and the Minimo theme for Hugo"
+copyright = "© Meng Gao, 2019-2022 · Made with blogdown and the Minimo theme for Hugo"
 
 theme = "minimo"
 
@@ -15,22 +15,31 @@ preserveTaxonomyNames = true
 enableRobotsTXT = true # generate robots.txt
 
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
-pygmentsCodefences = true
+#pygmentsCodefences = true
 
-### Jan 12 2020, try to configure highlighting:
-    highlightjsVersion = "9.11.0"
-    highlightjsCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
-    MathJaxCDN = "//cdn.bootcss.com"
-    MathJaxVersion = "2.7.1" 
+
+[markup]
+  [markup.goldmark.renderer]
+      unsafe = true
+
+
+
+
+
 enableEmoji = true
 #############
 #######Jan 12 2020 also try to change the wrap width:
 
 [[params.customCSS]]
  href = "pathToFileUnderStatic"
+ customCSS = [ "custom.css" ] 
+ customJS = ["js/custom.js"]
  #####
+
+
+
+
+
  
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
@@ -63,12 +72,17 @@ url = "/post"
 #identifier = "doc"
 #url = "/doc"
 
-[[menu.main]]
-name = "中文"
-weight = -110
-identifier = "cn_post"
-url = "/cn_post"
+
+
+#March 26 2022, temporarily remove the CN page
+#[[menu.main]]
+#name = "中文"
+#weight = -110
+#identifier = "cn_post"
+#url = "/cn_post"
 #####
+
+
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "2006, Jan 02"
@@ -106,7 +120,7 @@ titleSeparator = "•"
 
 [params.social]
 
-email = "menggao114[deletethis]gmail.com"
+email = "Please use the contact box at adventuremeng.com/contact/"
 linkedin = "meng-gao-aicp-709077152"
 
 [params.comments]
@@ -168,6 +182,5 @@ weight = 1
 
 
 
-[markup]
-    [markup.goldmark.renderer]
-      unsafe = true
+      
+
