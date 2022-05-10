@@ -31,18 +31,16 @@ First of all, use read_gtfs function to import the GTFS file:
 Then, we can create a function to take out the tables that we need to use here, and join them accordingly.
 
   ```
-
-route_stop_link <- function(gtfs){routes <- gtfs$routes
-  trips <- gtfs$trips
-  stop_times <- gtfs$stop_times
-  stops <- gtfs$stops
-  links <- routes %>%
-    left_join(trips %>% select(trip_id, route_id, shape_id)) %>%
-    left_join(stop_times %>% select(trip_id, stop_id)) %>%
-    left_join(stops) %>% group_by(stop_id) %>%slice(1) 
-  links
+route_stop_link <- function(gtfs){routes <- gtfs$routes 
+  trips <- gtfs$trips 
+  stop_times <- gtfs$stop_times 
+  stops <- gtfs$stops 
+  links <- routes %>% 
+    merge(trips %>% select(trip_id, route_id, shape_id), all=TRUE ) %>% 
+    merge(stop_times %>% select(trip_id, stop_id), all=TRUE ) %>% 
+    merge(stops, all=TRUE ) %>% group_by(stop_id, route_id) %>% slice(1) 
+  links 
   }
-
   ```
 
 Let’s test this out by using Washington D.C. WMATA/Washington Metropolitan Area Transit Authority GTFS from April 16, 2020. (data downloaded from [here](https://transitfeeds.com/p/wmata/75) )

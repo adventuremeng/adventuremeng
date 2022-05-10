@@ -15,7 +15,7 @@ Please use the following contact box to contact me or tell me what you think abo
    <div class="col-md-6 offset-md-3 mt-5">
       <div>
         <div>
-        <form accept-charset="UTF-8" action="https://getform.io/f/8f2fa913-4f16-4036-97fb-4c63669860b1" method="POST" enctype="multipart/form-data" target="_blank">
+        <form accept-charset="UTF-8" action="https://getform.io/f/a80135ac-650e-4011-a8a3-6a15e1dc062f" method="POST" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
             <label for="exampleInputName">Name</label>
             <input type="text" name="fullname" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
