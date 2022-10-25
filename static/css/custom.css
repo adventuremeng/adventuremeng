@@ -30,9 +30,7 @@
        url('../fonts/noto-sans-sc-v12-latin_chinese-simplified-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/noto-sans-sc-v12-latin_chinese-simplified-regular.svg#NotoSansSC') format('svg'); /* Legacy iOS */
 }
-blockquote {
-  font-size: .95em;
-}
+
 
 
 
