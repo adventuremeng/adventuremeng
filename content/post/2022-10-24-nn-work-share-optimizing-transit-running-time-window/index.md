@@ -30,7 +30,7 @@ Step one, import the AVL datasets which contains the actual running time between
 
 
 
-```
+```r
 library(dplyr)
 library(data.table)
 library(readxl)
@@ -51,7 +51,7 @@ wide <- avl %>% group_by(trip_group)%>% mutate(window=max(act)-min(act))%>% filt
 Step two is to create a function that loops through all possible on time windows. For example, if the minimum running time is 3 and the maximum is 11 minutes, then we need to calculate OTP percentages for 3-9 minutes, 4-10 minutes, and 5-11 minutes.
 
 
-```
+```r
 
 #create an empty container to store the results, with one column taking the minimum of the on time window, one column as the percentages
 df <- data.frame()
@@ -104,7 +104,7 @@ The last step is to combine the wide results with the narrow results, and then j
 
 
 
-```
+```r
 
 #Filter out the maximum results
 maxwindow <- datacontainer %>%group_by(ID)%>% filter(perc==max(perc))

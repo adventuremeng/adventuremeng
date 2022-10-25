@@ -26,7 +26,7 @@ Then, I created a function to convert this table into a single sf object that co
 
 
 
-```
+```r
 
 library(dplyr)
 library(sf)

@@ -133,7 +133,7 @@ OpenTripPlanner can only specify the walking time of the isochrone, not the walk
 
 I created an R function to calculate the isochrone and loop through all the locations for MARTA train stations.
 
-  ```
+  ```r
 get_marta_iso <- function(i){
   iso =otp_isochrone(
   Otpcon,    #OTP connection object which will allow R to connect to the OTP
