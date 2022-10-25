@@ -18,24 +18,28 @@ enableRobotsTXT = true # generate robots.txt
 #pygmentsCodefences = true
 
 
+[markup]
+  [markup.goldmark.renderer]
+      unsafe = true
 
 
-### Jan 12 2020, try to configure highlighting:
- #   highlightjsVersion = "9.11.0"
-  #  highlightjsCDN = "//cdn.bootcss.com"
-   # highlightjsLang = ["r", "yaml"]
-    #highlightjsTheme = "github"
-  #  MathJaxCDN = "//cdn.bootcss.com"
-  #  MathJaxVersion = "2.7.1" 
-  
+
+
+
 enableEmoji = true
 #############
-
 #######Jan 12 2020 also try to change the wrap width:
 
 [[params.customCSS]]
  href = "pathToFileUnderStatic"
+ customCSS = [ "custom.css" ] 
+ customJS = ["js/custom.js"]
  #####
+
+
+
+
+
  
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
@@ -68,12 +72,17 @@ url = "/post"
 #identifier = "doc"
 #url = "/doc"
 
-[[menu.main]]
-name = "中文"
-weight = -110
-identifier = "cn_post"
-url = "/cn_post"
+
+
+#March 26 2022, temporarily remove the CN page
+#[[menu.main]]
+#name = "中文"
+#weight = -110
+#identifier = "cn_post"
+#url = "/cn_post"
 #####
+
+
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "2006, Jan 02"
@@ -111,7 +120,7 @@ titleSeparator = "•"
 
 [params.social]
 
-email = "menggao114[deletethis]gmail.com"
+email = "Please use the contact box at adventuremeng.com/contact/"
 linkedin = "meng-gao-aicp-709077152"
 
 [params.comments]
@@ -170,23 +179,3 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
-
-
-
-[markup]
-    [markup.goldmark.renderer]
-      unsafe = true
-    [markup.highlight]
-      anchorLineNos = true
-      codeFences = true
-      guessSyntax = true
-      hl_Lines = ''
-      hl_inline = false
-      lineAnchors = ''
-      lineNoStart = 1
-      lineNos = false
-      lineNumbersInTable = true
-      noClasses = true
-      noHl = false
-      style = "monokailight"
-      tabWidth = 4
