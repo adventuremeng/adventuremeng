@@ -1,38 +1,14 @@
 
 ---
-#description: My resume and contact box.
+#description: My contact box.
 menu: main
 title: Contact
 weight: -100
 comments: false
 ---
 
-## Contact Box
+This is awkward. There used to be a contact box here. However I am getting way too many spam messages.
 
-Please use the following contact box to contact me or tell me what you think about my website/articles. Looking forward to connect!
+Therefore, if you have something to say about a specific post, please leave a comment using utteranc.es.
 
-
-   <div class="col-md-6 offset-md-3 mt-5">
-      <div>
-        <div>
-        <form accept-charset="UTF-8" action="https://getform.io/f/a80135ac-650e-4011-a8a3-6a15e1dc062f" method="POST" enctype="multipart/form-data" target="_blank">
-          <div class="form-group">
-            <label for="exampleInputName">Name</label>
-            <input type="text" name="fullname" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
-          </div>
-          <div class="form-group">
-            <label for="exampleInputEmail1" required="required">Email address</label>
-            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-          </div>
-                    <div class="form-group">
-            <label for="exampleInputMessage">Message</label>
-
-  <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required=""></textarea>       
-          </div>
-          <br>
-          </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
-    </div> 
-
-
+Otherwise, please contact me via [LinkedIn](https://www.linkedin.com/in/meng-gao-aicp-709077152/), thanks for understanding! :-) 

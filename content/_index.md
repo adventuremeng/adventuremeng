@@ -29,26 +29,23 @@ output: pdf_document
 
 
 
+I am currently a transit planner working at [Nelson\Nygaard Consulting Associates](https://nelsonnygaard.com/) in Seattle, Washington. At work, I support and lead a wide range of transit planning projects including comprehensive operational analyses and system redesigns, transit development plans, corridor studies, etc.I use R and GIS a lot to automate our work process, conduct data analysis and create dashboards/tools that better supports planning.
 
-I am proud to be certified as AICP, the American Institute of Certified Planners, by [APA](https://www.planning.org/aicp/) in August 2021.
+I am most interested in GIS, statistics, and R. During work and personal researching time, I like to combine data-driven information and geospatial info with traditional planning methods to better understand and solve urban problems regarding social justice.
 
-I am currently working at [Nelson\Nygaard Consulting Associates](https://nelsonnygaard.com/) in Atlanta. Nelson\Nygaard provides high-quality consulting services of public transportation and other mobility solutions. At work, I support a wide range of transit planning projects including comprehensive operational analyses and system redesigns, transit development plans, corridor studies, and other short-term and long-term service planning studies.
-
-In May 2019, I graduated from the Master of City and Regional Planning program at Georgia Tech concentrating in GIS and urban design. Before that, I studied Architecture at Xi'an Jiaotong University in Xi'an, China. You can find my architecture portfolio below.
-
-I am most interested in GIS, statistics, and R. My goal is to combine data-driven information, big data, geospatial relationships, and design aspects to understand and solve urban problems. I like to study about neighborhood gentrification, open source tools for urban analytics, non-motorized transportation studys, and social justice problems. 
+In May 2019, I graduated from the Master of City and Regional Planning program at Georgia Tech with a GIS certificate. Before that, I studied Architecture at Xi'an Jiaotong University in Xi'an, China.
 
 
 
 
-<a href="/images/Portfolio_MengGao.pdf" target="_blank"><img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/cover/architecture-portfolio.png" alt="" width="100%" /></a>
+
 
 ### About the Adventure 
 
 Study, work, and have fun. I consider these elements of life as Meng Adventure.
 
-In my spare time, I like playing the the flute and the piano, cooking, playing video games, and reading books. 
+Recently I started teaching myself sewing. If it's a typical raining day in Seattle, I will be sewing at home. It's a lot of fun!
 
-*If you would like to subsribe to my website posts, you can use RSS with [this link.](https://www.adventuremeng.com/index.xml)*
+*If you would like to subsribe to my website posts, you can use this RSS [ link.](https://www.adventuremeng.com/index.xml)*
 
 
