@@ -16,7 +16,7 @@ As I couldn't believe it myself, but there's not a developed function in R that 
 
 
 
-| Stop ID       |  O_Lat    | O_Lon  |  D_Lat |D_Lon
+| Pair_ID       |  O_Lat    | O_Lon  |  D_Lat |D_Lon
 |---------------------------------------|-------|------|---|---|
 | 1 |   47.6408    |    -122.3359  | 47.6911  |  -122.4516 |
 | 2 |   47.6081    |   -122.0917   | 47.5152  |-122.2197   |
@@ -94,3 +94,5 @@ And the final results look like:
 
 And, the end, tada!
 
+
+P.S. I recently came up with [this page](https://stackoverflow.com/questions/61958296/convert-character-linestring-to-geometry-in-sf) talking about converting text strings directly to sf. If this works it would be so much simpler than the method above. However, I haven't been able to successfully run it. Will continue to test this out.
