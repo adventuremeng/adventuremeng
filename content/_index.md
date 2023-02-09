@@ -21,8 +21,10 @@ output: pdf_document
 
 
 
-**[All Projects >](/project)**
+**[More Projects >](/project)**
 <br/><br/>
+
+
 
 
 ### About Me
@@ -38,6 +40,11 @@ In May 2019, I graduated from the Master of City and Regional Planning program a
 
 
 
+<a href="images/Portfolio_MengGao.pdf" target="_blank">
+    <img src="https://github.com/adventuremeng/website_img/blob/master/cover/architecture-portfolio.png?raw=true" alt=""
+        style="width: 100%;height: auto;vertical-align: 
+        middle;border-style: none;">
+</a>
 
 
 ### About the Adventure 
