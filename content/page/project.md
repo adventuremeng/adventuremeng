@@ -36,7 +36,7 @@ comments: false
 
 [<img src="https://github.com/adventuremeng/website_img/blob/master/cover/urban_farm.png?raw=true" alt="" width=32%  /> ](/post/urban-farm-how-much-land-needed-to-feed-everyone/)
 [<img src="https://user-images.githubusercontent.com/53570321/70857616-126e6400-1ec0-11ea-80b7-ab6bfb696a49.png" alt="" width=32% title="Tech Playground: Georgia Tech Shenzhen Campus Design" />](/doc/tech-playground-the-georgia-tech-shenzhen-campus-design/)
-
+[<img src="https://github.com/adventuremeng/website_img/blob/master/cover/spartanburg.PNG?raw=true" alt="" width=32% title="Tech Playground: Georgia Tech Shenzhen Campus Design" />](/post/master-plan-and-more-highland-transformation-plan-was-approved/)
 
 <a href="/images/Portfolio_MengGao.pdf" target="_blank"><img src="https://raw.githubusercontent.com/adventuremeng/website_img/master/cover/architecture-portfolio.png" alt="" width="100%" /></a>
 
