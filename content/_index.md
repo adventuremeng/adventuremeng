@@ -31,7 +31,7 @@ output: pdf_document
 
 
 
-I am currently a transit planner working at [Nelson\Nygaard Consulting Associates](https://nelsonnygaard.com/) in Seattle, Washington. At work, I support and lead a wide range of transit planning projects including comprehensive operational analyses and system redesigns, transit development plans, corridor studies, etc.I use R and GIS a lot to automate our work process, conduct data analysis and create dashboards/tools that better supports planning.
+I am currently a transit planner and data analyst working at [Nelson\Nygaard Consulting Associates](https://nelsonnygaard.com/) in Seattle, Washington. At work, I support and lead a wide range of transit planning projects including comprehensive operational analyses and system redesigns, transit development plans, corridor studies, etc. I use R and GIS a lot to automate our work process, conduct data analysis and create dashboards/tools that better supports planning.
 
 I am most interested in GIS, statistics, and R. During work and personal researching time, I like to combine data-driven information and geospatial info with traditional planning methods to better understand and solve urban problems regarding social justice.
 
